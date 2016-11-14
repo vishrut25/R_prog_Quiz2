@@ -1,7 +1,7 @@
 R programming 
-
+=========
 Quiz 1 
-=======
+==========
 
 1) R was developed by statisticians working at
 Answer===The University of Auckland
@@ -72,7 +72,7 @@ Explaination---->
 > z<-x+y
 > class(z)
 [1] "integer"
-
+//Addition of 2 Integer Vector yields another Integer Vector.
 
 9)
 Answer====
@@ -80,11 +80,3 @@ Answer====
 10)
 Answer====
 
-11)
-Answer====
-
-12)
-Answer====
-
-13)
-Answer====
